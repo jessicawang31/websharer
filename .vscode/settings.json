@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/d9c4307c-0af3-420b-ba3f-495cd3ba4e26/resourceGroups/appsvc_linux_centralus2/providers/Microsoft.Web/sites/a4-websharer-jessicawang31",
+    "appService.deploySubpath": "."
+}
